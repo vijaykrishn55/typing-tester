@@ -1,6 +1,6 @@
 # Typing Playground
 
-**Link to the Project:** [Typing Playground](Add-Your-Project-Link-Here)
+**Link to the Project:** [Typing Playground](https://typing-tester-zeta.vercel.app/)
 
 ## Features
 
